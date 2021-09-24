@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://blog.sigmerc.top/](https://blog.sigmerc.top/)
 
-- 📫 How to reach me **signormercurio#gmail.com**
+- 📫 How to reach me: **signormercurio@gmail.com**
 
 | `$ENV` |
 | :-: |
