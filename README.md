@@ -26,6 +26,6 @@
 | ![](https://img.shields.io/badge/Apple-Silicon-6FC93F?style=for-the-badge&logo=apple&logoColor=white) ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) |
 
 <div class="row">
-  <img src="https://github-profile-trophy.vercel.app/?username=signormercurio&theme=onedark&no-frame=true&row=2&column=3" alt="Trophy" />
+  <img align="left" src="https://github-profile-trophy.vercel.app/?username=signormercurio&theme=onedark&no-frame=true&row=2&column=3" alt="Trophy" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=signormercurio&count_private=true&show_icons=true&theme=material-palenight" alt="Github stats" />
 </div>
