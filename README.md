@@ -26,7 +26,20 @@
 
 <!--START_SECTION:activity-->
 
-<div class="row">
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=signormercurio&theme=onedark&no-frame=true&row=3&column=2" alt="Trophy" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=signormercurio&count_private=true&show_icons=true&theme=material-palenight" alt="Github stats" />
-</div>
+<table>
+<tbody>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://activity-graph.herokuapp.com/graph?username=SignorMercurio&theme=material-palenight" alt="GitHub activity" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <img src="https://github-profile-trophy.vercel.app/?username=signormercurio&theme=onedark&no-frame=true&row=2&column=3" alt="Trophy" />
+    </td>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=signormercurio&count_private=true&show_icons=true&theme=material-palenight" alt="Github stats" />
+    </td>
+  </tr>
+</tbody>
+</table>
