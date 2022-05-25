@@ -25,6 +25,12 @@
 | ![](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white) ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![](https://img.shields.io/badge/iTerm2-oh--my--zsh-000000?style=for-the-badge&logo=iterm2&logoColor=white) |
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#97](https://github.com/apache/pulsar-site/pull/97) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+2. ❗️ Opened issue [#10](https://github.com/andredelft/typora-tailwind-theme/issues/10) in [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme)
+3. 💪 Opened PR [#94](https://github.com/apache/pulsar-site/pull/94) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+4. 💪 Opened PR [#93](https://github.com/apache/pulsar-site/pull/93) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+5. 🗣 Commented on [#83](https://github.com/apache/pulsar-site/issues/83) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+<!--END_SECTION:activity-->
 
 <table>
 <tbody>
