@@ -11,7 +11,9 @@
 
 - 📫 How to reach me: signormercurio@gmail.com
 
-| `env` |
+## 💻 Environment
+
+| ...... |
 | :-: |
 | ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) ![](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white) ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white) |
 | ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) ![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white) ![](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white) |
@@ -24,6 +26,7 @@
 | ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
 | ![](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white) ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) ![](https://img.shields.io/badge/iTerm2-oh--my--zsh-000000?style=for-the-badge&logo=iterm2&logoColor=white) |
 
+## ⚡ Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#97](https://github.com/apache/pulsar-site/pull/97) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
 2. ❗️ Opened issue [#10](https://github.com/andredelft/typora-tailwind-theme/issues/10) in [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme)
@@ -31,6 +34,8 @@
 4. 💪 Opened PR [#93](https://github.com/apache/pulsar-site/pull/93) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
 5. 🗣 Commented on [#83](https://github.com/apache/pulsar-site/issues/83) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
 <!--END_SECTION:activity-->
+
+## 📈 Stats
 
 <table>
 <tbody>
