@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#97](https://github.com/apache/pulsar-site/pull/97) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-2. 💪 Opened PR [#15812](https://github.com/apache/pulsar/pull/15812) in [apache/pulsar](https://github.com/apache/pulsar)
-3. 🗣 Commented on [#97](https://github.com/apache/pulsar-site/issues/97) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-4. 💪 Opened PR [#1059](https://github.com/labring/sealos/pull/1059) in [labring/sealos](https://github.com/labring/sealos)
-5. ❗️ Closed issue [#10](https://github.com/andredelft/typora-tailwind-theme/issues/10) in [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme)
+1. 🗣 Commented on [#1052](https://github.com/labring/sealos/issues/1052) in [labring/sealos](https://github.com/labring/sealos)
+2. 🗣 Commented on [#1052](https://github.com/labring/sealos/issues/1052) in [labring/sealos](https://github.com/labring/sealos)
+3. ❌ Closed PR [#97](https://github.com/apache/pulsar-site/pull/97) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+4. 💪 Opened PR [#15812](https://github.com/apache/pulsar/pull/15812) in [apache/pulsar](https://github.com/apache/pulsar)
+5. 🗣 Commented on [#97](https://github.com/apache/pulsar-site/issues/97) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
