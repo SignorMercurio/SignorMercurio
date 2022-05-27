@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1059](https://github.com/labring/sealos/pull/1059) in [labring/sealos](https://github.com/labring/sealos)
-2. ❗️ Closed issue [#10](https://github.com/andredelft/typora-tailwind-theme/issues/10) in [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme)
-3. 🗣 Commented on [#10](https://github.com/andredelft/typora-tailwind-theme/issues/10) in [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme)
-4. 💪 Opened PR [#97](https://github.com/apache/pulsar-site/pull/97) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-5. ❗️ Opened issue [#10](https://github.com/andredelft/typora-tailwind-theme/issues/10) in [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme)
+1. 🗣 Commented on [#97](https://github.com/apache/pulsar-site/issues/97) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+2. 💪 Opened PR [#1059](https://github.com/labring/sealos/pull/1059) in [labring/sealos](https://github.com/labring/sealos)
+3. ❗️ Closed issue [#10](https://github.com/andredelft/typora-tailwind-theme/issues/10) in [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme)
+4. 🗣 Commented on [#10](https://github.com/andredelft/typora-tailwind-theme/issues/10) in [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme)
+5. 💪 Opened PR [#97](https://github.com/apache/pulsar-site/pull/97) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
