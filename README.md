@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1081](https://github.com/labring/sealos/pull/1081) in [labring/sealos](https://github.com/labring/sealos)
-2. 💪 Opened PR [#1080](https://github.com/labring/sealos/pull/1080) in [labring/sealos](https://github.com/labring/sealos)
-3. 💪 Opened PR [#1075](https://github.com/labring/sealos/pull/1075) in [labring/sealos](https://github.com/labring/sealos)
-4. 💪 Opened PR [#1073](https://github.com/labring/sealos/pull/1073) in [labring/sealos](https://github.com/labring/sealos)
-5. 💪 Opened PR [#1069](https://github.com/labring/sealos/pull/1069) in [labring/sealos](https://github.com/labring/sealos)
+1. 💪 Opened PR [#1082](https://github.com/labring/sealos/pull/1082) in [labring/sealos](https://github.com/labring/sealos)
+2. 💪 Opened PR [#1081](https://github.com/labring/sealos/pull/1081) in [labring/sealos](https://github.com/labring/sealos)
+3. 💪 Opened PR [#1080](https://github.com/labring/sealos/pull/1080) in [labring/sealos](https://github.com/labring/sealos)
+4. 💪 Opened PR [#1075](https://github.com/labring/sealos/pull/1075) in [labring/sealos](https://github.com/labring/sealos)
+5. 💪 Opened PR [#1073](https://github.com/labring/sealos/pull/1073) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
