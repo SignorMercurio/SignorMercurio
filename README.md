@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/fanux/sealos-site/issues/16) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
-2. 🗣 Commented on [#15](https://github.com/fanux/sealos-site/issues/15) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
-3. 🗣 Commented on [#12](https://github.com/fanux/sealos-site/issues/12) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
-4. ❗️ Closed issue [#10](https://github.com/fanux/sealos-site/issues/10) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
-5. ❗️ Opened issue [#11](https://github.com/fanux/sealos-site/issues/11) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
+1. 🎉 Merged PR [#19](https://github.com/fanux/sealos-site/pull/19) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
+2. ❗️ Closed issue [#16](https://github.com/fanux/sealos-site/issues/16) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
+3. 💪 Opened PR [#19](https://github.com/fanux/sealos-site/pull/19) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
+4. 🗣 Commented on [#9717](https://github.com/apache/pulsar/issues/9717) in [apache/pulsar](https://github.com/apache/pulsar)
+5. 💪 Opened PR [#16271](https://github.com/apache/pulsar/pull/16271) in [apache/pulsar](https://github.com/apache/pulsar)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
