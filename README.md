@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1261](https://github.com/labring/sealos/issues/1261) in [labring/sealos](https://github.com/labring/sealos)
+1. 🗣 Commented on [#1257](https://github.com/labring/sealos/issues/1257) in [labring/sealos](https://github.com/labring/sealos)
 2. 🗣 Commented on [#1261](https://github.com/labring/sealos/issues/1261) in [labring/sealos](https://github.com/labring/sealos)
 3. 🗣 Commented on [#1261](https://github.com/labring/sealos/issues/1261) in [labring/sealos](https://github.com/labring/sealos)
-4. 💪 Opened PR [#1261](https://github.com/labring/sealos/pull/1261) in [labring/sealos](https://github.com/labring/sealos)
-5. 🗣 Commented on [#1258](https://github.com/labring/sealos/issues/1258) in [labring/sealos](https://github.com/labring/sealos)
+4. 🗣 Commented on [#1261](https://github.com/labring/sealos/issues/1261) in [labring/sealos](https://github.com/labring/sealos)
+5. 💪 Opened PR [#1261](https://github.com/labring/sealos/pull/1261) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
