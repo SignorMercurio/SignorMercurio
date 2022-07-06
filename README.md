@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1258](https://github.com/labring/sealos/issues/1258) in [labring/sealos](https://github.com/labring/sealos)
-2. 💪 Opened PR [#1258](https://github.com/labring/sealos/pull/1258) in [labring/sealos](https://github.com/labring/sealos)
-3. 🗣 Commented on [#137](https://github.com/apache/pulsar-site/issues/137) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-4. 💪 Opened PR [#137](https://github.com/apache/pulsar-site/pull/137) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-5. ❗️ Opened issue [#1255](https://github.com/labring/sealos/issues/1255) in [labring/sealos](https://github.com/labring/sealos)
+1. 🗣 Commented on [#1261](https://github.com/labring/sealos/issues/1261) in [labring/sealos](https://github.com/labring/sealos)
+2. 💪 Opened PR [#1261](https://github.com/labring/sealos/pull/1261) in [labring/sealos](https://github.com/labring/sealos)
+3. 🗣 Commented on [#1258](https://github.com/labring/sealos/issues/1258) in [labring/sealos](https://github.com/labring/sealos)
+4. 💪 Opened PR [#1258](https://github.com/labring/sealos/pull/1258) in [labring/sealos](https://github.com/labring/sealos)
+5. 🗣 Commented on [#137](https://github.com/apache/pulsar-site/issues/137) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
