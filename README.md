@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1265](https://github.com/labring/sealos/issues/1265) in [labring/sealos](https://github.com/labring/sealos)
-2. 🗣 Commented on [#1257](https://github.com/labring/sealos/issues/1257) in [labring/sealos](https://github.com/labring/sealos)
-3. 🗣 Commented on [#1261](https://github.com/labring/sealos/issues/1261) in [labring/sealos](https://github.com/labring/sealos)
-4. 🗣 Commented on [#1261](https://github.com/labring/sealos/issues/1261) in [labring/sealos](https://github.com/labring/sealos)
-5. 🗣 Commented on [#1261](https://github.com/labring/sealos/issues/1261) in [labring/sealos](https://github.com/labring/sealos)
+1. 🎉 Merged PR [#1](https://github.com/SignorMercurio/sealos/pull/1) in [SignorMercurio/sealos](https://github.com/SignorMercurio/sealos)
+2. 💪 Opened PR [#1270](https://github.com/labring/sealos/pull/1270) in [labring/sealos](https://github.com/labring/sealos)
+3. 🎉 Merged PR [#1269](https://github.com/labring/sealos/pull/1269) in [labring/sealos](https://github.com/labring/sealos)
+4. ❗️ Opened issue [#1265](https://github.com/labring/sealos/issues/1265) in [labring/sealos](https://github.com/labring/sealos)
+5. 🗣 Commented on [#1257](https://github.com/labring/sealos/issues/1257) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
