@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16439](https://github.com/apache/pulsar/issues/16439) in [apache/pulsar](https://github.com/apache/pulsar)
-2. 💪 Opened PR [#142](https://github.com/apache/pulsar-site/pull/142) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-3. 🎉 Merged PR [#2](https://github.com/SignorMercurio/pulsar-site/pull/2) in [SignorMercurio/pulsar-site](https://github.com/SignorMercurio/pulsar-site)
-4. 🎉 Merged PR [#1](https://github.com/SignorMercurio/sealos/pull/1) in [SignorMercurio/sealos](https://github.com/SignorMercurio/sealos)
-5. 💪 Opened PR [#1270](https://github.com/labring/sealos/pull/1270) in [labring/sealos](https://github.com/labring/sealos)
+1. 🎉 Merged PR [#1273](https://github.com/labring/sealos/pull/1273) in [labring/sealos](https://github.com/labring/sealos)
+2. 🗣 Commented on [#16439](https://github.com/apache/pulsar/issues/16439) in [apache/pulsar](https://github.com/apache/pulsar)
+3. 💪 Opened PR [#142](https://github.com/apache/pulsar-site/pull/142) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+4. 🎉 Merged PR [#2](https://github.com/SignorMercurio/pulsar-site/pull/2) in [SignorMercurio/pulsar-site](https://github.com/SignorMercurio/pulsar-site)
+5. 🎉 Merged PR [#1](https://github.com/SignorMercurio/sealos/pull/1) in [SignorMercurio/sealos](https://github.com/SignorMercurio/sealos)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
