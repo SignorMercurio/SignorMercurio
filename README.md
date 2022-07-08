@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/fanux/sealos-site/pull/26) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
-2. 🎉 Merged PR [#1273](https://github.com/labring/sealos/pull/1273) in [labring/sealos](https://github.com/labring/sealos)
-3. 🗣 Commented on [#16439](https://github.com/apache/pulsar/issues/16439) in [apache/pulsar](https://github.com/apache/pulsar)
-4. 💪 Opened PR [#142](https://github.com/apache/pulsar-site/pull/142) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-5. 🎉 Merged PR [#2](https://github.com/SignorMercurio/pulsar-site/pull/2) in [SignorMercurio/pulsar-site](https://github.com/SignorMercurio/pulsar-site)
+1. 💪 Opened PR [#1278](https://github.com/labring/sealos/pull/1278) in [labring/sealos](https://github.com/labring/sealos)
+2. 🗣 Commented on [#1270](https://github.com/labring/sealos/issues/1270) in [labring/sealos](https://github.com/labring/sealos)
+3. 🎉 Merged PR [#26](https://github.com/fanux/sealos-site/pull/26) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
+4. 🎉 Merged PR [#1273](https://github.com/labring/sealos/pull/1273) in [labring/sealos](https://github.com/labring/sealos)
+5. 🗣 Commented on [#16439](https://github.com/apache/pulsar/issues/16439) in [apache/pulsar](https://github.com/apache/pulsar)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
