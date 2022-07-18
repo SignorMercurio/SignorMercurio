@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#33](https://github.com/fanux/sealos-site/issues/33) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
-2. 🎉 Merged PR [#32](https://github.com/fanux/sealos-site/pull/32) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
-3. 🗣 Commented on [#32](https://github.com/fanux/sealos-site/issues/32) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
-4. 🗣 Commented on [#31](https://github.com/fanux/sealos-site/issues/31) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
-5. 🎉 Merged PR [#31](https://github.com/fanux/sealos-site/pull/31) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
+1. 🗣 Commented on [#32](https://github.com/fanux/sealos-site/issues/32) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
+2. ❗️ Opened issue [#33](https://github.com/fanux/sealos-site/issues/33) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
+3. 🎉 Merged PR [#32](https://github.com/fanux/sealos-site/pull/32) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
+4. 🗣 Commented on [#32](https://github.com/fanux/sealos-site/issues/32) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
+5. 🗣 Commented on [#31](https://github.com/fanux/sealos-site/issues/31) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
