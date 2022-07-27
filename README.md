@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16539](https://github.com/apache/pulsar/issues/16539) in [apache/pulsar](https://github.com/apache/pulsar)
-2. 🗣 Commented on [#147](https://github.com/apache/pulsar-site/issues/147) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-3. 🗣 Commented on [#16627](https://github.com/apache/pulsar/issues/16627) in [apache/pulsar](https://github.com/apache/pulsar)
+1. 🗣 Commented on [#16627](https://github.com/apache/pulsar/issues/16627) in [apache/pulsar](https://github.com/apache/pulsar)
+2. 🗣 Commented on [#16539](https://github.com/apache/pulsar/issues/16539) in [apache/pulsar](https://github.com/apache/pulsar)
+3. 🗣 Commented on [#147](https://github.com/apache/pulsar-site/issues/147) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
 4. 🗣 Commented on [#16627](https://github.com/apache/pulsar/issues/16627) in [apache/pulsar](https://github.com/apache/pulsar)
-5. 🗣 Commented on [#147](https://github.com/apache/pulsar-site/issues/147) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+5. 🗣 Commented on [#16627](https://github.com/apache/pulsar/issues/16627) in [apache/pulsar](https://github.com/apache/pulsar)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
