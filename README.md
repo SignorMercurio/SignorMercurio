@@ -29,10 +29,10 @@
 ## ⚡ Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16627](https://github.com/apache/pulsar/issues/16627) in [apache/pulsar](https://github.com/apache/pulsar)
-2. 💪 Opened PR [#1419](https://github.com/labring/sealos/pull/1419) in [labring/sealos](https://github.com/labring/sealos)
-3. 🗣 Commented on [#93](https://github.com/deckarep/golang-set/issues/93) in [deckarep/golang-set](https://github.com/deckarep/golang-set)
-4. ❗️ Closed issue [#1364](https://github.com/labring/sealos/issues/1364) in [labring/sealos](https://github.com/labring/sealos)
-5. 🗣 Commented on [#1364](https://github.com/labring/sealos/issues/1364) in [labring/sealos](https://github.com/labring/sealos)
+2. 🗣 Commented on [#16627](https://github.com/apache/pulsar/issues/16627) in [apache/pulsar](https://github.com/apache/pulsar)
+3. 💪 Opened PR [#1419](https://github.com/labring/sealos/pull/1419) in [labring/sealos](https://github.com/labring/sealos)
+4. 🗣 Commented on [#93](https://github.com/deckarep/golang-set/issues/93) in [deckarep/golang-set](https://github.com/deckarep/golang-set)
+5. ❗️ Closed issue [#1364](https://github.com/labring/sealos/issues/1364) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
