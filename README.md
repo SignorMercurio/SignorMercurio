@@ -28,9 +28,9 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16853](https://github.com/apache/pulsar/issues/16853) in [apache/pulsar](https://github.com/apache/pulsar)
-2. 🗣 Commented on [#44](https://github.com/fanux/sealos-site/issues/44) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
-3. 🗣 Commented on [#16853](https://github.com/apache/pulsar/issues/16853) in [apache/pulsar](https://github.com/apache/pulsar)
+1. 🎉 Merged PR [#45](https://github.com/fanux/sealos-site/pull/45) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
+2. 🗣 Commented on [#16853](https://github.com/apache/pulsar/issues/16853) in [apache/pulsar](https://github.com/apache/pulsar)
+3. 🗣 Commented on [#44](https://github.com/fanux/sealos-site/issues/44) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
 4. 🗣 Commented on [#16853](https://github.com/apache/pulsar/issues/16853) in [apache/pulsar](https://github.com/apache/pulsar)
 5. 🗣 Commented on [#16853](https://github.com/apache/pulsar/issues/16853) in [apache/pulsar](https://github.com/apache/pulsar)
 <!--END_SECTION:activity-->
