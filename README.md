@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#162](https://github.com/apache/pulsar-site/pull/162) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-2. ❗️ Closed issue [#77](https://github.com/ECNU-Forum/ECNU-Forum/issues/77) in [ECNU-Forum/ECNU-Forum](https://github.com/ECNU-Forum/ECNU-Forum)
-3. 🎉 Merged PR [#78](https://github.com/ECNU-Forum/ECNU-Forum/pull/78) in [ECNU-Forum/ECNU-Forum](https://github.com/ECNU-Forum/ECNU-Forum)
-4. 💪 Opened PR [#161](https://github.com/apache/pulsar-site/pull/161) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-5. 🗣 Commented on [#160](https://github.com/apache/pulsar-site/issues/160) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+1. 💪 Opened PR [#163](https://github.com/apache/pulsar-site/pull/163) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+2. 💪 Opened PR [#162](https://github.com/apache/pulsar-site/pull/162) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+3. ❗️ Closed issue [#77](https://github.com/ECNU-Forum/ECNU-Forum/issues/77) in [ECNU-Forum/ECNU-Forum](https://github.com/ECNU-Forum/ECNU-Forum)
+4. 🎉 Merged PR [#78](https://github.com/ECNU-Forum/ECNU-Forum/pull/78) in [ECNU-Forum/ECNU-Forum](https://github.com/ECNU-Forum/ECNU-Forum)
+5. 💪 Opened PR [#161](https://github.com/apache/pulsar-site/pull/161) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
