@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1539](https://github.com/labring/sealos/pull/1539) in [labring/sealos](https://github.com/labring/sealos)
-2. 💪 Opened PR [#164](https://github.com/apache/pulsar-site/pull/164) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-3. 💪 Opened PR [#163](https://github.com/apache/pulsar-site/pull/163) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-4. 💪 Opened PR [#162](https://github.com/apache/pulsar-site/pull/162) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-5. ❗️ Closed issue [#77](https://github.com/ECNU-Forum/ECNU-Forum/issues/77) in [ECNU-Forum/ECNU-Forum](https://github.com/ECNU-Forum/ECNU-Forum)
+1. 🎉 Merged PR [#1540](https://github.com/labring/sealos/pull/1540) in [labring/sealos](https://github.com/labring/sealos)
+2. 💪 Opened PR [#1539](https://github.com/labring/sealos/pull/1539) in [labring/sealos](https://github.com/labring/sealos)
+3. 💪 Opened PR [#164](https://github.com/apache/pulsar-site/pull/164) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+4. 💪 Opened PR [#163](https://github.com/apache/pulsar-site/pull/163) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+5. 💪 Opened PR [#162](https://github.com/apache/pulsar-site/pull/162) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
