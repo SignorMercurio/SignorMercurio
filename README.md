@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1560](https://github.com/labring/sealos/pull/1560) in [labring/sealos](https://github.com/labring/sealos)
-2. ❌ Closed PR [#47](https://github.com/fanux/sealos-site/pull/47) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
-3. 🎉 Merged PR [#1557](https://github.com/labring/sealos/pull/1557) in [labring/sealos](https://github.com/labring/sealos)
-4. ❌ Closed PR [#1539](https://github.com/labring/sealos/pull/1539) in [labring/sealos](https://github.com/labring/sealos)
-5. 💪 Opened PR [#1555](https://github.com/labring/sealos/pull/1555) in [labring/sealos](https://github.com/labring/sealos)
+1. 💪 Opened PR [#17197](https://github.com/apache/pulsar/pull/17197) in [apache/pulsar](https://github.com/apache/pulsar)
+2. 💪 Opened PR [#169](https://github.com/apache/pulsar-site/pull/169) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+3. 🎉 Merged PR [#1560](https://github.com/labring/sealos/pull/1560) in [labring/sealos](https://github.com/labring/sealos)
+4. ❌ Closed PR [#47](https://github.com/fanux/sealos-site/pull/47) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
+5. 🎉 Merged PR [#1557](https://github.com/labring/sealos/pull/1557) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
