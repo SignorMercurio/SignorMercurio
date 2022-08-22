@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17198](https://github.com/apache/pulsar/pull/17198) in [apache/pulsar](https://github.com/apache/pulsar)
-2. 💪 Opened PR [#17197](https://github.com/apache/pulsar/pull/17197) in [apache/pulsar](https://github.com/apache/pulsar)
-3. 💪 Opened PR [#169](https://github.com/apache/pulsar-site/pull/169) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-4. 🎉 Merged PR [#1560](https://github.com/labring/sealos/pull/1560) in [labring/sealos](https://github.com/labring/sealos)
-5. ❌ Closed PR [#47](https://github.com/fanux/sealos-site/pull/47) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
+1. 🗣 Commented on [#17197](https://github.com/apache/pulsar/issues/17197) in [apache/pulsar](https://github.com/apache/pulsar)
+2. 💪 Opened PR [#17198](https://github.com/apache/pulsar/pull/17198) in [apache/pulsar](https://github.com/apache/pulsar)
+3. 💪 Opened PR [#17197](https://github.com/apache/pulsar/pull/17197) in [apache/pulsar](https://github.com/apache/pulsar)
+4. 💪 Opened PR [#169](https://github.com/apache/pulsar-site/pull/169) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+5. 🎉 Merged PR [#1560](https://github.com/labring/sealos/pull/1560) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
