@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#169](https://github.com/apache/pulsar-site/issues/169) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-2. 🗣 Commented on [#17197](https://github.com/apache/pulsar/issues/17197) in [apache/pulsar](https://github.com/apache/pulsar)
-3. 💪 Opened PR [#17198](https://github.com/apache/pulsar/pull/17198) in [apache/pulsar](https://github.com/apache/pulsar)
-4. 💪 Opened PR [#17197](https://github.com/apache/pulsar/pull/17197) in [apache/pulsar](https://github.com/apache/pulsar)
-5. 💪 Opened PR [#169](https://github.com/apache/pulsar-site/pull/169) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+1. ❗️ Opened issue [#177](https://github.com/apache/pulsar-site/issues/177) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+2. 💪 Opened PR [#176](https://github.com/apache/pulsar-site/pull/176) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+3. 🗣 Commented on [#169](https://github.com/apache/pulsar-site/issues/169) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+4. 🗣 Commented on [#17197](https://github.com/apache/pulsar/issues/17197) in [apache/pulsar](https://github.com/apache/pulsar)
+5. 💪 Opened PR [#17198](https://github.com/apache/pulsar/pull/17198) in [apache/pulsar](https://github.com/apache/pulsar)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
