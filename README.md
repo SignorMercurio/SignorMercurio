@@ -29,9 +29,9 @@
 ## ⚡ Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#176](https://github.com/apache/pulsar-site/issues/176) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-2. 💪 Opened PR [#189](https://github.com/apache/pulsar-site/pull/189) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-3. 🗣 Commented on [#184](https://github.com/apache/pulsar-site/issues/184) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-4. 🗣 Commented on [#13453](https://github.com/apache/pulsar/issues/13453) in [apache/pulsar](https://github.com/apache/pulsar)
+2. 🗣 Commented on [#176](https://github.com/apache/pulsar-site/issues/176) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+3. 💪 Opened PR [#189](https://github.com/apache/pulsar-site/pull/189) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+4. 🗣 Commented on [#184](https://github.com/apache/pulsar-site/issues/184) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
 5. 🗣 Commented on [#13453](https://github.com/apache/pulsar/issues/13453) in [apache/pulsar](https://github.com/apache/pulsar)
 <!--END_SECTION:activity-->
 
