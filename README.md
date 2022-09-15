@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17628](https://github.com/apache/pulsar/issues/17628) in [apache/pulsar](https://github.com/apache/pulsar)
-2. 💪 Opened PR [#17628](https://github.com/apache/pulsar/pull/17628) in [apache/pulsar](https://github.com/apache/pulsar)
-3. 💪 Opened PR [#17585](https://github.com/apache/pulsar/pull/17585) in [apache/pulsar](https://github.com/apache/pulsar)
-4. 💪 Opened PR [#208](https://github.com/apache/pulsar-site/pull/208) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-5. 🗣 Commented on [#17198](https://github.com/apache/pulsar/issues/17198) in [apache/pulsar](https://github.com/apache/pulsar)
+1. 🎉 Merged PR [#54](https://github.com/fanux/sealos-site/pull/54) in [fanux/sealos-site](https://github.com/fanux/sealos-site)
+2. 🗣 Commented on [#17628](https://github.com/apache/pulsar/issues/17628) in [apache/pulsar](https://github.com/apache/pulsar)
+3. 💪 Opened PR [#17628](https://github.com/apache/pulsar/pull/17628) in [apache/pulsar](https://github.com/apache/pulsar)
+4. 💪 Opened PR [#17585](https://github.com/apache/pulsar/pull/17585) in [apache/pulsar](https://github.com/apache/pulsar)
+5. 💪 Opened PR [#208](https://github.com/apache/pulsar-site/pull/208) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
