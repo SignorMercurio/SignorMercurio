@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#214](https://github.com/apache/pulsar-site/issues/214) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-2. 🗣 Commented on [#247](https://github.com/apache/pulsar-site/issues/247) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-3. 🗣 Commented on [#246](https://github.com/apache/pulsar-site/issues/246) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-4. 💪 Opened PR [#247](https://github.com/apache/pulsar-site/pull/247) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
-5. 💪 Opened PR [#1861](https://github.com/labring/sealos/pull/1861) in [labring/sealos](https://github.com/labring/sealos)
+1. 💪 Opened PR [#249](https://github.com/apache/pulsar-site/pull/249) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+2. 🗣 Commented on [#17996](https://github.com/apache/pulsar/issues/17996) in [apache/pulsar](https://github.com/apache/pulsar)
+3. 🗣 Commented on [#214](https://github.com/apache/pulsar-site/issues/214) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+4. 🗣 Commented on [#247](https://github.com/apache/pulsar-site/issues/247) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+5. 🗣 Commented on [#246](https://github.com/apache/pulsar-site/issues/246) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
