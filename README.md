@@ -28,11 +28,11 @@
 
 ## ⚡ Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#121](https://github.com/SignorMercurio/SignorMercurio.github.io/pull/121) in [SignorMercurio/SignorMercurio.github.io](https://github.com/SignorMercurio/SignorMercurio.github.io)
-2. 💪 Opened PR [#2250](https://github.com/labring/sealos/pull/2250) in [labring/sealos](https://github.com/labring/sealos)
-3. 💪 Opened PR [#2249](https://github.com/labring/sealos/pull/2249) in [labring/sealos](https://github.com/labring/sealos)
-4. 💪 Opened PR [#2235](https://github.com/labring/sealos/pull/2235) in [labring/sealos](https://github.com/labring/sealos)
-5. 💪 Opened PR [#272](https://github.com/apache/pulsar-site/pull/272) in [apache/pulsar-site](https://github.com/apache/pulsar-site)
+1. ❌ Closed PR [#122](https://github.com/SignorMercurio/SignorMercurio.github.io/pull/122) in [SignorMercurio/SignorMercurio.github.io](https://github.com/SignorMercurio/SignorMercurio.github.io)
+2. ❌ Closed PR [#121](https://github.com/SignorMercurio/SignorMercurio.github.io/pull/121) in [SignorMercurio/SignorMercurio.github.io](https://github.com/SignorMercurio/SignorMercurio.github.io)
+3. 💪 Opened PR [#2250](https://github.com/labring/sealos/pull/2250) in [labring/sealos](https://github.com/labring/sealos)
+4. 💪 Opened PR [#2249](https://github.com/labring/sealos/pull/2249) in [labring/sealos](https://github.com/labring/sealos)
+5. 💪 Opened PR [#2235](https://github.com/labring/sealos/pull/2235) in [labring/sealos](https://github.com/labring/sealos)
 <!--END_SECTION:activity-->
 
 ## 📈 Stats
