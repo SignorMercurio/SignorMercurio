@@ -41,7 +41,7 @@
 <tbody>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://activity-graph.herokuapp.com/graph?username=SignorMercurio&theme=material-palenight" alt="GitHub activity" />
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SignorMercurio&theme=material-palenight" alt="GitHub activity" />
     </td>
   </tr>
   <tr>
