@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mercurio</h1>
-<h3 align="center">MSc student</h3>
+<h3 align="center">Security Engineer @ Alibaba Cloud</h3>
 
 - 🔭 I’m currently working on **improving my cooking skills**
 
@@ -41,7 +41,7 @@
 <tbody>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SignorMercurio&theme=material-palenight" alt="GitHub activity" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=SignorMercurio&theme=material-palenight" alt="GitHub activity" />
     </td>
   </tr>
   <tr>
