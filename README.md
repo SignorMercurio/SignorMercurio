@@ -19,5 +19,5 @@ Currently interested in **AI for Security** and **Chess**.
 
 ### Recent Posts
 
-<!--START_SECTION:blog-->
-<!--END_SECTION:blog-->
+<!-- blog:START -->
+<!-- blog:END -->
