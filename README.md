@@ -20,4 +20,8 @@ Currently interested in **AI for Security** and **Chess**.
 ### Recent Posts
 
 <!-- blog:START -->
-<!-- blog:END -->
+- [利刃出鞘：跨平台应急响应工具 SIREN 介绍](https://blog.sigmerc.top/posts/siren/) — 2026-04-10
+- [殊途迷归：多 VPN 共存环境下的内网路由排查](https://blog.sigmerc.top/posts/multi-vpn-routing/) — 2026-02-15
+- [临危不惧：基于实战案例详解应急响应逻辑与技巧](https://blog.sigmerc.top/posts/practical-ir/) — 2025-12-25
+- [按图索骥：osquery 探索](https://blog.sigmerc.top/posts/osquery/) — 2025-10-19
+- [请君入瓮：草台班子实施的一次钓鱼演练环境搭建](https://blog.sigmerc.top/posts/simple-phishing-env/) — 2025-08-29<!-- blog:END -->
