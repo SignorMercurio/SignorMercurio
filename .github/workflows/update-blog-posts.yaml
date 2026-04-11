@@ -1,0 +1,21 @@
+name: Update Blog Posts in README
+
+on:
+  schedule:
+    - cron: '5 8 * * 1'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update README with recent blog posts
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://blog.sigmerc.top/index.xml"
+          max_post_count: 5
+          date_format: "yyyy-mm-dd"
+          template: "$newline- [$title]($url) — $date"
+          comment_tag_name: "blog"
